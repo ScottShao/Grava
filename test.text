@@ -1,0 +1,28 @@
+Processed 5000 lines of graph10000Nodes.txt
+Processed 10000 lines of graph10000Nodes.txt
+Processed 15000 lines of graph10000Nodes.txt
+Processed 20000 lines of graph10000Nodes.txt
+Processed 25000 lines of graph10000Nodes.txt
+Processed 5000 lines of graph10000NodesOut.txt
+Processed 10000 lines of graph10000NodesOut.txt
+Processed 15000 lines of graph10000NodesOut.txt
+Processed 20000 lines of graph10000NodesOut.txt
+Processed 25000 lines of graph10000NodesOut.txt
+loading takes:247 ms
+ComputeGraphNeighbors DEBUG - Computed the vertex set
+ ComputeGraphNeighbors DEBUG - [T1] Table computation started with 6472 nodes to process
+ ComputeGraphNeighbors DEBUG - Computed the vertex set
+ ComputeGraphNeighbors DEBUG - [T1] Table computation started with 5 nodes to process
+ computing neighbor table time:615
+PruningAlgorithm DEBUG - The number of comparison is 824
+ pruning time:49
+Query node : 5648
+Mapping Nodes size:291
+Query node : 5048
+Mapping Nodes size:326
+Query node : 686848
+Mapping Nodes size:68
+Query node : 515048
+Mapping Nodes size:139
+total answer number:22168
+answer 201 ms
